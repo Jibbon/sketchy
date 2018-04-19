@@ -1,4 +1,4 @@
 # sketchy
 a github experiment
 
-Not sure how to edit this...
+Alright, this is a new version of the file.
